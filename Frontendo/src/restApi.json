@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image": "./quality_food.svg",
+          "title": "QUALITY FOOD",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat."
+        },
+        {
+          "id": 2,
+          "image": "./super_taste.svg",
+          "title": "SUPER TASTE",
+          "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur."
+        },
+        {
+          "id": 3,
+          "image": "./fast_delivery.svg",
+          "title": "FAST DELIVERY",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat."
+        }
+      ],
+      "dishes": [
+        {
+          "id": 1,
+          "image": "./dinner1.jpeg",
+          "title": "ROASTED LAMB RUMP",
+          "category": "Dinner",
+          "description": "Our Roasted Lamb Rump is a culinary delight, featuring tender cuts of lamb, perfectly roasted to preserve its natural juices and flavors. This dish is paired with a medley of seasonal vegetables, lightly sautéed in aromatic herbs and olive oil, creating a symphony of textures and tastes. A rich red wine jus is drizzled over the lamb, adding a tangy, savory depth that enhances every bite. Served alongside creamy mashed potatoes, this meal offers a perfect balance of heartiness and sophistication. Ideal for a dinner gathering or a romantic evening, the Roasted Lamb Rump is a must-try for lamb enthusiasts and gourmet lovers alike."
+        },
+        {
+          "id": 2,
+          "image": "./dinner2.png",
+          "title": "CITRUS CURED SALMON",
+          "category": "Dinner",
+          "description": "Citrus Cured Salmon is a refreshing and flavorful dish, perfect for seafood aficionados. The salmon is cured in a zesty blend of citrus juices, including lemon, orange, and lime, which imparts a tangy and slightly sweet flavor while maintaining the salmon's tender, silky texture. Garnished with fresh dill, capers, and a sprinkle of sea salt, this dish bursts with vibrant flavors. It is served alongside a crisp cucumber and fennel salad, drizzled with a light vinaigrette, and complemented with artisanal bread for a satisfying meal. This sophisticated dish is ideal for an elegant dinner or light appetizer."
+        },
+        {
+          "id": 3,
+          "image": "./breakfast1.png",
+          "title": "PAN SEARED SEA BASS",
+          "category": "Breakfast",
+          "description": "Our Pan Seared Sea Bass is a light yet indulgent dish, perfect to kickstart your morning. The sea bass fillet is seasoned with a hint of lemon zest, sea salt, and cracked pepper before being pan-seared to a crispy golden perfection. Accompanied by a bed of sautéed spinach and cherry tomatoes, this dish offers a healthy dose of vitamins and a burst of natural flavors. A drizzle of basil-infused olive oil and a side of toasted sourdough bread make it an unforgettable breakfast experience. Simple, elegant, and absolutely delicious, it’s a treat for fish lovers."
+        },
+        {
+          "id": 4,
+          "image": "./dinner3.png",
+          "title": "STUFFED STRAWBERRY",
+          "category": "Dinner",
+          "description": "Stuffed Strawberry is an innovative dessert-style dinner treat that combines the natural sweetness of ripe strawberries with a rich and creamy mascarpone filling. Each strawberry is delicately hollowed and filled with mascarpone cheese blended with a touch of vanilla and powdered sugar. A drizzle of balsamic reduction and a sprinkle of crushed pistachios complete this elegant dish, balancing sweet, tart, and savory notes in every bite. It’s a perfect choice for those who crave a light and refreshing end to their meal."
+        },
+        {
+          "id": 5,
+          "image": "./lunch1.png",
+          "title": "BEEF BURGER MEAL",
+          "category": "Lunch",
+          "description": "The Beef Burger Meal is a hearty and satisfying lunch option that combines a perfectly grilled beef patty with all the classic fixings. Served on a toasted brioche bun, the burger is layered with crisp lettuce, ripe tomato slices, caramelized onions, and a generous slice of melted cheddar cheese. A dollop of tangy barbecue sauce and a hint of garlic aioli add a burst of flavor. Accompanied by golden, crispy fries and a refreshing side of coleslaw, this meal is a true crowd-pleaser."
+        },
+        {
+          "id": 6,
+          "image": "./dinner4.png",
+          "title": "MUSSELS SOUP",
+          "category": "Dinner",
+          "description": "Mussels Soup is a luxurious and warming dish, featuring fresh mussels cooked in a fragrant broth of white wine, garlic, shallots, and fresh herbs. The soup is enriched with a splash of cream, creating a velvety texture and depth of flavor. Served with crusty bread for dipping, this dish is a comforting and elegant option for dinner. The briny sweetness of the mussels perfectly complements the rich, savory broth, making it a delightful experience for seafood lovers."
+        },
+        {
+          "id": 7,
+          "image": "./dinner5.png",
+          "title": "ITALIAN SPAGHETTI",
+          "category": "Dinner",
+          "description": "Italian Spaghetti is a classic comfort food, featuring al dente spaghetti tossed in a rich and flavorful tomato sauce. The sauce is slow-cooked with ripe tomatoes, fresh basil, garlic, and a hint of red chili flakes for a subtle kick. Topped with freshly grated Parmesan cheese and a drizzle of extra virgin olive oil, this dish embodies the essence of Italian cuisine. Pair it with a glass of red wine and a side of garlic bread for a complete dining experience."
+        },
+        {
+          "id": 8,
+          "image": "./dinner6.png",
+          "title": "GRILLED FISH",
+          "category": "Dinner",
+          "description": "Grilled Fish is a light yet flavorful dinner choice, featuring a fillet of fish seasoned with a blend of herbs and spices, then perfectly grilled to achieve a smoky char. Served with a side of lemon butter sauce, roasted vegetables, and a quinoa salad, this dish offers a delightful balance of flavors and textures. It’s a healthy, protein-rich meal that satisfies without being heavy, making it ideal for those looking for a nourishing and delicious dinner."
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "image": "./team_member_1.png",
+          "name": "Muhammad Mudassar",
+          "designation": "Founder"
+        },
+        {
+          "id": 2,
+          "image": "./team_member_2.png",
+          "name": "Ammar Haider",
+          "designation": "Developer"
+        },
+        {
+          "id": 3,
+          "image": "./team_member_3.png",
+          "name": "Dr. Mubashir Ayub Minhas",
+          "designation": "Doctor"
+        },
+        {
+          "id": 4,
+          "image": "./team_member_4.png",
+          "name": "Sidra Shafi",
+          "designation": "Engineer"
+        }
+      ],
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "./review_1.png",
+          "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+          "rating": 4,
+          "userName": "Sara"
+        },
+        {
+          "id": 2,
+          "image": "./review_2.png",
+          "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+          "rating": 4.5,
+          "userName": "Elina"
+        },
+        {
+          "id": 3,
+          "image": "./review_3.png",
+          "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+          "rating": 5,
+          "userName": "Akbar Ali"
+        }
+      ],
+      "who_we_are": [
+        {
+          "id": 1,
+          "number": "14",
+          "title": "Restaurants"
+        },
+        {
+          "id": 2,
+          "number": "20",
+          "title": "Chef In Kitchen"
+        },
+        {
+          "id": 3,
+          "number": "08",
+          "title": "Years Of Experience"
+        },
+        {
+          "id": 4,
+          "number": "200",
+          "title": "Food Dishes"
+        }
+      ],
+      "navbarLinks": [
+        {
+          "id": 1,
+          "title": "HOME",
+          "link": "/"
+        },
+        {
+          "id": 2,
+          "title": "ABOUT US",
+          "link": "about"
+        },
+        {
+          "id": 3,
+          "title": "SERVICES",
+          "link": "qualities"
+        },
+        {
+          "id": 4,
+          "title": "TEAM",
+          "link": "team"
+        },
+        {
+          "id": 5,
+          "title": "RESERVATION",
+          "link": "reservation"
+        },
+        {
+          "id": 6,
+          "title": "TESTIMONIALS",
+          "link": "testimonials"
+        }
+      ]
+    }
+  ]
+}
