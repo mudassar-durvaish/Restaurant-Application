@@ -152,11 +152,6 @@
       ],
       "navbarLinks": [
         {
-          "id": 1,
-          "title": "HOME",
-          "link": "/"
-        },
-        {
           "id": 2,
           "title": "ABOUT US",
           "link": "about"
